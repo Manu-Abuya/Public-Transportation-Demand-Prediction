@@ -18,6 +18,4 @@ The project was completed using the following steps:
 
 The code is written in Python and the libraries used are pandas and numpy.
 
-To run the code, you need to have Python and the necessary libraries installed on your machine. The code can be run using Jupyter notebook or any other IDE.
-
 This project can be useful for transportation companies and city planners to optimize routes and schedules based on demand.
